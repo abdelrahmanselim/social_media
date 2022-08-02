@@ -1,0 +1,6 @@
+1-pip install django
+2-pip install psycopg2-binary
+4-create user in database 'iti'
+5- password '123'
+6-create database 'social'
+7-python manage.py migrate

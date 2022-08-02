@@ -5,3 +5,6 @@
 6-create database 'social'
 7-python manage.py migrate
 8-create superuser(python manage.py createsuperuser)
+9-npm install
+10-npm start
+11-npm run build

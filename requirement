@@ -4,3 +4,4 @@
 5- password '123'
 6-create database 'social'
 7-python manage.py migrate
+8-create superuser(python manage.py createsuperuser)
